@@ -1,0 +1,6 @@
+{
+  "name": "Compress Image to 100KB",
+  "description": "Compress photos to 100KB or custom target size easily, offline and securely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

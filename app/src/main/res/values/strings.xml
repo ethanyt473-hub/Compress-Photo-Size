@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Compress Image to 100KB</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Home Screen -->
+    <string name="header_subtitle">Fast, offline image compressor to target size</string>
+    <string name="select_image">Select Image</string>
+    <string name="select_multiple">Select Multiple (Batch)</string>
+    <string name="select_photo_hint">Tap to choose JPEG, PNG, or WebP photo</string>
+    <string name="target_size">Target File Size</string>
+    <string name="compression_mode">Compression Mode</string>
+    <string name="mode_target_size">Target Size</string>
+    <string name="mode_quality">Quality Slider</string>
+    <string name="mode_resize">Resize + Compress</string>
+    <string name="custom_size">Custom Size</string>
+    <string name="action_compress">Compress to %s</string>
+    <string name="action_compress_now">Compress Now</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_remove">Remove</string>
+    
+    <!-- Results & Details -->
+    <string name="compression_result">Compression Result</string>
+    <string name="batch_results">Batch Compression Results</string>
+    <string name="original_size">Original Size</string>
+    <string name="compressed_size">Compressed Size</string>
+    <string name="dimensions">Dimensions</string>
+    <string name="savings">Space Saved</string>
+    <string name="status_achieved">Target Achieved</string>
+    <string name="status_warning">Target Not Fully Met</string>
+    <string name="action_save">Save Image</string>
+    <string name="action_share">Share Image</string>
+    <string name="action_open">Open File</string>
+    <string name="action_copy_details">Copy Details</string>
+    <string name="details_copied">Result details copied to clipboard</string>
+    <string name="image_saved_success">Image successfully saved to Pictures!</string>
+    
+    <!-- History Screen -->
+    <string name="history_title">Compression History</string>
+    <string name="history_empty">No compressed images yet</string>
+    <string name="history_empty_desc">Photos you compress will appear here for easy access, sharing, and review.</string>
+    <string name="clear_history">Clear History</string>
+    <string name="delete_history_confirm">Are you sure you want to clear your compression history?</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings</string>
+    <string name="section_appearance">Appearance</string>
+    <string name="theme_system">System Default</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="section_compression">Compression Defaults</string>
+    <string name="pref_default_target">Default Target Size</string>
+    <string name="pref_output_format">Output Format</string>
+    <string name="pref_remove_exif">Remove EXIF Metadata</string>
+    <string name="pref_remove_exif_desc">Strips camera model, GPS location, and personal metadata for privacy.</string>
+    <string name="pref_auto_save">Auto-save Compressed Photos</string>
+    <string name="pref_auto_save_desc">Automatically save compressed pictures directly to device gallery.</string>
+    <string name="section_privacy">Privacy &amp; Security</string>
+    <string name="privacy_local_desc">All compression happens locally on your device. Your photos are never uploaded to any external server.</string>
+    <string name="privacy_policy_title">Privacy Policy</string>
+    <string name="section_about">About</string>
+    <string name="about_version">Version 1.0 (Build 1)</string>
+    <string name="about_desc">Engineered for job applicants, students, passport/visa portals, and online document uploads requiring specific file sizes like 100 KB.</string>
+</resources>
